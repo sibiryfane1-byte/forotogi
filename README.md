@@ -1,2 +1,2 @@
-# forotogi
+# forotogi-app
 Application SaaS Forotigi
